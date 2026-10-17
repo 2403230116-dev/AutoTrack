@@ -1,0 +1,8 @@
+autotrack_core_main
+├── .gitignore          ← este
+├── README.md
+├── requirements.txt
+├── manage.py
+├── api_main_core
+├── autotrack
+└── autotrack_core_main
